@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <!--
 **rajatdiptabiswas/rajatdiptabiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg">
+<img align="right" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/metrics.plugin.stars.svg">
