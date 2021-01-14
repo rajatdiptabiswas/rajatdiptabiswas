@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg">
-<img align="right" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/metrics.plugin.stars.svg">
+<img align="right" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg">
