@@ -20,10 +20,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
-          # Topics
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
           # Lines
           plugin_lines: yes
           # Stars
