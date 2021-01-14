@@ -21,11 +21,11 @@ jobs:
           # Lines
           plugin_lines: yes
       
-      # Display your latest starred repositories
+      # Display latest starred repositories
       - name: Stars plugin
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.stars.svg
+          filename: github-metrics-plugin-stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
