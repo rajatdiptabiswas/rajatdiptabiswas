@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="45%" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg">
-<img align="right" width="45%" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg">
+<!--
+<img align="left" width="50%" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg">
+<img align="right" width="50%" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg">
+-->
+
+<div align=center>
+    <img align=top src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg"/>
+    <img align=top src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg"/>
+<div>
