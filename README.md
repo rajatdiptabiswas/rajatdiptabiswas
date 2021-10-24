@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-    <img align=top src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg"/>
-    <img align=top src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg"/>
+    <img align=top width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg"/>
+    <img align=top width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg"/>
 <div>
