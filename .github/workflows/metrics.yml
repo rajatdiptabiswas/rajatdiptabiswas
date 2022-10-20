@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: "c#, jupyter notebook, matlab"
+          plugin_languages_ignored: "c#, jupyter notebook, matlab, racket"
           plugin_lines: yes
       
       # Display latest starred repositories
