@@ -39,6 +39,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-plugin-leetcode.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
           plugin_leetcode: yes
           plugin_leetcode_user: rajatdiptabiswas
           plugin_leetcode_sections: solved, skills, recent
