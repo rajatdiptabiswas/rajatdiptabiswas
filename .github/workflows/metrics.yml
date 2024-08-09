@@ -27,6 +27,7 @@ jobs:
           filename: github-metrics-plugins.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
           # Display latest starred repositories
           plugin_stars: yes
           plugin_stars_limit: 3
@@ -34,4 +35,3 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: rajatdiptabiswas
           plugin_leetcode_sections: solved, skills
-          plugin_leetcode_limit_recent: 2
