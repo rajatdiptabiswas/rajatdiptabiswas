@@ -33,4 +33,12 @@ jobs:
           plugin_stars_limit: 4
           plugins_errors_fatal: yes
           use_prebuilt_image: master
-          
+
+      # Displays statistics from LeetCode
+      - name: LeetCode plugin
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-plugin-leetcode.svg
+          plugin_leetcode: yes
+          plugin_leetcode_user: rajatdiptabiswas
+          plugin_leetcode_sections: solved, skills, recent
