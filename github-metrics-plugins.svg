@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dortania/OpenCore-Legacy-Patcher</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experience macOS just like before</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dewalt-arch/pimpmykali</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kali Linux Fixes for Newly Imported VM's</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ganeshrvel/openmtp</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenMTP  - Advanced Android File Transfer Application for macOS</div>
@@ -184,9 +184,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.87181846059491 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.8519313304721 329"/>
                                     <text x="60" y="50" dominant-baseline="central">643</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3261</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3262</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -202,9 +202,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.9187134502924 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.8760958503799 329"/>
                                     <text x="60" y="50" dominant-baseline="central">379</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1710</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1711</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
