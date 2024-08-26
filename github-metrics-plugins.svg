@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deep-fingerprinting/df</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The source code and dataset are used to demonstrate the DF model, and reproduce the results of the ACM CCS2018 paper</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jhayes14/k-FP</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmarks for the k-FP WF attack</div>
@@ -117,7 +117,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fingerprintability/fingerprintability</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source code for the data collection and analysis used in the 'How unique is your onion?' project.</div>
@@ -172,36 +172,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.83205638982531 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.75267829813285 329"/>
                                     <text x="60" y="50" dominant-baseline="central">643</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3263</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3267</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.8060975609756 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.72350791717419 329"/>
                                     <text x="60" y="50" dominant-baseline="central">169</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/820</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/821</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.8760958503799 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.83352803738318 329"/>
                                     <text x="60" y="50" dominant-baseline="central">379</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1711</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1712</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="42.69808743169399 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="42.58174386920981 329"/>
                                     <text x="60" y="50" dominant-baseline="central">95</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/732</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/734</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
