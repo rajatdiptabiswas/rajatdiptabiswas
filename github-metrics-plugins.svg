@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ewust/telex</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Telex anticensorship prototype</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>idank/explainshell</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">match command-line arguments to their help text</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>websitefingerprinting/WebsiteFingerprinting</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Codes for WF attacks, defenses</div>
@@ -178,9 +178,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.26093560145807 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.24142119647738 329"/>
                                     <text x="60" y="50" dominant-baseline="central">643</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3292</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3293</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -196,9 +196,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.45264381173736 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.41056910569105 329"/>
                                     <text x="60" y="50" dominant-baseline="central">379</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1721</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1722</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
