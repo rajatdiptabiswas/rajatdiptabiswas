@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrienverge/openfortivpn</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client for PPP+TLS VPN tunnel services</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kasra-keshavarz/alliancecan-training</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Setting up a hydrological model using the Digital Research Alliance of Canada's Narval cluster</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TACC/Lmod</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy</div>
@@ -190,9 +190,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.403244837758116 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.384842229430845 329"/>
                                     <text x="60" y="50" dominant-baseline="central">643</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3390</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3391</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -208,9 +208,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.52658371040724 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.48671565856415 329"/>
                                     <text x="60" y="50" dominant-baseline="central">379</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1768</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1769</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
