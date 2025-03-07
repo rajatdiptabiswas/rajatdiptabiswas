@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnschneid/crouton</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chromium OS Universal Chroot Environment (EOL)</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leaningtech/webvm</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual Machine for the Web</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>munificent/craftinginterpreters</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for the book "Crafting Interpreters"</div>
@@ -190,8 +190,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.237917146144994 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">647</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.33256616800921 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">648</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3476</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -208,8 +208,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.36856668511345 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">381</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.55063641394577 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">382</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1807</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -236,7 +236,7 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x341</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x161</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x128</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x129</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x113</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x93</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x92</span></div>
