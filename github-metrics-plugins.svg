@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seed-labs/seed-labs</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SEED Labs developed in the last 20 years.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Adamkadaban/CTFs</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CTF Cheat Sheet + Writeups / Files for some of the Cyber CTFs that I've done</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnschneid/crouton</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chromium OS Universal Chroot Environment (EOL)</div>
@@ -184,18 +184,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.0865329512894 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.069034660555715 329"/>
                                     <text x="60" y="50" dominant-baseline="central">648</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3490</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3491</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.96420323325634 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="64.88927335640139 329"/>
                                     <text x="60" y="50" dominant-baseline="central">171</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/866</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/867</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
