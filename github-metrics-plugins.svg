@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PowerToys</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows system utilities to maximize productivity</div>
@@ -57,7 +57,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        32k
+                                        32.1k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>talent-plan/tinykv</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A course to build distributed key-value service based on TiKV model</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cmu-db/15445-bootcamp</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A basic introduction to coding in modern C++.</div>
@@ -190,9 +190,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.82510699001426 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.80775812892185 329"/>
                                     <text x="60" y="50" dominant-baseline="central">648</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3505</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3506</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -217,9 +217,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.302696078431374 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.25581395348837 329"/>
                                     <text x="60" y="50" dominant-baseline="central">95</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/816</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/817</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
