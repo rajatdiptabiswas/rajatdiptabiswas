@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matze/mtheme</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern LaTeX Beamer theme</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jolars/moloch</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Moloch is a minimalist, feature-rich Beamer theme for LaTeX presentations with a clean design and extensive customization options.</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgraziotin/disclose-data-dbr-first-then-opendata</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My tutorial on disclosing data for double blind peer review and make it archived open data upon acceptance.</div>
@@ -178,36 +178,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.31632124352332 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.25905797101449 329"/>
                                     <text x="60" y="50" dominant-baseline="central">649</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3860</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3864</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.55866523143165 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.49354838709677 329"/>
                                     <text x="60" y="50" dominant-baseline="central">171</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/929</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/930</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.24764735017335 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.186046511627914 329"/>
                                     <text x="60" y="50" dominant-baseline="central">382</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2019</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2021</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.63157894736842 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.593647316538885 329"/>
                                     <text x="60" y="50" dominant-baseline="central">96</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/912</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/913</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
