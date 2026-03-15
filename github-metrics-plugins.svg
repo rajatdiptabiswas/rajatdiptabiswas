@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DhavalKapil/heap-exploitation</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DhavalKapil/icmptunnel</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transparently tunnel your IP traffic through ICMP echo and reply packets.</div>
@@ -117,7 +117,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tladesignz/dnstt</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -179,36 +179,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.24476067270375 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.18764538640475 329"/>
                                     <text x="60" y="50" dominant-baseline="central">649</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3865</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3869</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.49354838709677 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.42857142857143 329"/>
                                     <text x="60" y="50" dominant-baseline="central">171</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/930</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/931</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.15529179030663 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.09387351778656 329"/>
                                     <text x="60" y="50" dominant-baseline="central">382</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2022</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2024</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.593647316538885 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.55579868708971 329"/>
                                     <text x="60" y="50" dominant-baseline="central">96</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/913</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/914</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
