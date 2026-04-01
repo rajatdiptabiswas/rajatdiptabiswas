@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xan1242/NFS-XtendedInput</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NFS (Black Box, MW &amp; newer) - XInput Plugin</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DhavalKapil/heap-exploitation</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DhavalKapil/icmptunnel</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transparently tunnel your IP traffic through ICMP echo and reply packets.</div>
@@ -178,9 +178,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="54.93208129662979 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="54.91795267489712 329"/>
                                     <text x="60" y="50" dominant-baseline="central">649</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3887</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3888</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -205,9 +205,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.36779107725789 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.33043478260869 329"/>
                                     <text x="60" y="50" dominant-baseline="central">96</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/919</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/920</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
